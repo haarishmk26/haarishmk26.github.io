@@ -10,4 +10,3 @@ Enjoy the show!<br>
 So you are thinking how can a guy do these many things and still keep going?<br>
 Good for you I am dead!<br>
 Can I add Hero to the list Oh! I am sorry forgot that was not my style!<br>
-I dont think I said anything too much.As they say everything is about me.
