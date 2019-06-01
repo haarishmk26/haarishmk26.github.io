@@ -6,7 +6,7 @@ IRONMAN<br>
 Genius|Playboy|Billionaire|philanthropist <br>
 Everyone likes a movie Instead of a talk show <br>
 Enjoy the show!<br>
-<ahref="https://www.youtube.com/watch?v=dEk-M-dcwXo"><br>
+[youtube]: https://www.youtube.com/watch?v=dEk-M-dcwXo
 So you are thinking how can a guy do these many things and still keep going?<br>
 Good for you I am dead!<br>
 <<<<<<< HEAD
